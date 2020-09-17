@@ -5,9 +5,9 @@
   <samp>
     Hi, I'm Vefa! 👋 <br>
     🔥 24 Year's Old Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :notebook: I’m currently learning DS and Algo... 😭  <br>
-    :email:	saadpasta70@gmail.com <br>
+    :sparkles: Favorite : Java,C,Python,C#\mysql,  ... <br>
+    :notebook: I’m currently learning machine learning and Big Data 😭  <br>
+    :email:	vefakaraahmet@gmail.com <br>
     :art: Portfolio: https://devvefa.github.io <br>
     :briefcase: LinkedIn:https://www.linkedin.com/in/vefakaraahmet/ <br>
   </samp>
